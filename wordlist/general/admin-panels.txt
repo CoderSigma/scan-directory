@@ -11,6 +11,8 @@ admin2.php
 admin/account.html
 admin/account.php
 admin/admin.html
+admin/login.php
+admin/login.html
 admin/admin_login.html
 admin/admin-login.html
 admin/adminLogin.html
@@ -18,6 +20,8 @@ admin/admin_login.php
 admin/admin-login.php
 admin/adminLogin.php
 admin/admin.php
+admin/reg.php
+admin/register.php
 admin_area/
 adminarea/
 admin_area/admin.html
